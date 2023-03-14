@@ -11,15 +11,15 @@ public class Affectation {
     // déclaration des propriétés
     private String anneesemaine ;
     private String tempspasse ;
-  
+    private String eliot ;
 
     // Constructeurs
     public Affectation() {
     }
-    public Affectation(String panneesemaine, String ptempspasse) {
-    this.anneesemaine = pAnneeSemaine; 
+    public Affectation(String panneesemaine, String ptempspasse,String peliot) {
+    this.panneesemaine = pAnneeSemaine; 
     this.ptempspasse = pTempsPasse;
-    
+    this.peliot = Peliot;
     }
 
     // Accesseurs = getters
