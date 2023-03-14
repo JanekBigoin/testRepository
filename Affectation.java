@@ -47,5 +47,5 @@ public class Affectation {
     public void seteliot(String pEliot) {
         this.eliot = pEliot;
     }
-   
+   /* jaaj*/
 }
