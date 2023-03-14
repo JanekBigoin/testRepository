@@ -3,7 +3,7 @@
 * 17/01/2023
 * objet du programme
 * Classe metier Salarie
-* @author Janek
+* @author Eliot
 */
 
 public class Affectation {
